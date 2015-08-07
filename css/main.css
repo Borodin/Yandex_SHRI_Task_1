@@ -99,10 +99,10 @@ table{
 }
 
 .tr > a > span:first-child{
-	background: url(img/air1.png) no-repeat center;
+	background: url(../img/air1.png) no-repeat center;
 }
 span.tr > a > span:first-child{
-	background-image: url(img/air2.png);
+	background-image: url(../img/air2.png);
 }
 .info{
 	position: fixed;
@@ -136,7 +136,7 @@ span.tr > a > span:first-child{
 	top:10px;
 	width: 16px;
 	height: 16px;
-	background: url(img/close.png);
+	background: url(../img/close.png);
 }
 
 @media (max-width: 1450px) {
